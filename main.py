@@ -4,11 +4,9 @@ Name: Aditya Mangal
 
 '''
 
-import pyttsx3  # pip install pyttsx3
 import speech_recognition as sr  # pip install speechRecognition
-from win32com.client import Dispatch
+from win32com.client import Dispatch # pip install pywin32
 import datetime
-import wikipedia  # pip install wikipedia
 import webbrowser
 from termcolor import cprint
 import requests
@@ -111,6 +109,3 @@ if __name__ == "__main__":
             user = user.replace('Jarvis spell', '')
             speak(user)
         
-        elif 'Jarvis spell' in user:
-            user = user.replace('Jarvis spell', '')
-            speak(user)
