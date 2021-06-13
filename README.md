@@ -1,6 +1,6 @@
 # Virtual-assistant-AI
 
-Virtual assistant Ai made with Python programming language.
+Virtual assistant AI made with Python programming language.
 
 ## 🛠️ Modules Used
 
@@ -43,6 +43,11 @@ speech_recognition (pip install speech_recognition)
 ```bash
 In command line python3 main.py
 ``` 
+
+## Screenshot
+
+![Screenshot (140)](https://user-images.githubusercontent.com/68494604/121816288-5cdcc680-cc98-11eb-9786-19c3e15eec91.png)
+
 
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
